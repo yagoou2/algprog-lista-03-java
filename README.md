@@ -24,13 +24,10 @@ Desenvolver o raciocínio lógico e a capacidade de resolver problemas utilizand
 
 ## 📋 Exercícios
 
----
 
 ### 🔢 1. Maior, menor e média
 
-<table>
-<tr>
-<td width="50%">
+<img src="/exemplos/exercicio1.gif" align="right" width="300px">
 
 - Lê 3 números  
 - Mostra:
@@ -38,85 +35,58 @@ Desenvolver o raciocínio lógico e a capacidade de resolver problemas utilizand
   - Menor valor  
   - Média aritmética  
 
-</td>
-<td width="50%">
 
-<img src="/algoritmos/exercicio1.gif" width="100%">
+<p align="right"><strong>🎥 Exemplo de execução</strong>
+<br clear="right">
 
-</td>
-</tr>
-</table>
 
----
 
 ### 🏪 2. Máquina de vendas (troco)
 
-<table>
-<tr>
-<td width="50%">
+<img src="/exemplos/exercicio2.gif" align="right" width="300px">
 
 - Lê valor da compra e pagamento  
 - Verifica se é suficiente  
 - Calcula troco com menor número de notas  
 
-</td>
-<td width="50%">
 
-<img src="/algoritmos/exercicio2.gif" width="100%">
 
-</td>
-</tr>
-</table>
+<br clear="right">
+<p align="right"><strong>🎥 Exemplo de execução</strong>
 
 ---
 
 ### 📐 3. Equação do segundo grau
 
-<table>
-<tr>
-<td width="50%">
+<img src="/exemplos/exercicio3.gif" align="right" width="300px">
 
 - Resolve: ax² + bx + c = 0  
 - Calcula Δ (delta)  
 - Trata todos os casos possíveis  
 
-</td>
-<td width="50%">
 
-<img src="/algoritmos/exercicio3.gif" width="100%">
 
-</td>
-</tr>
-</table>
+<br clear="right">
+<p align="right"><strong>🎥 Exemplo de execução</strong>
 
----
 
 ### ⚪ 4. Círculo e esfera
 
-<table>
-<tr>
-<td width="50%">
+<img src="/exemplos/exercicio4.gif" align="right" width="300px">
 
 - Código 1 → Perímetro  
 - Código 2 → Área  
 - Código 3 → Volume  
 
-</td>
-<td width="50%">
 
-<img src="/algoritmos/exerciciox4.gif" width="100%">
 
-</td>
-</tr>
-</table>
+<br clear="right">
+<p align="right"><strong>🎥 Exemplo de execução</strong>
 
----
 
 ### ➕ 5. Calculadora
 
-<table>
-<tr>
-<td width="50%">
+<img src="/exemplos/exercicio5.gif" align="right" width="300px">
 
 - Operações:
   - Soma  
@@ -125,37 +95,23 @@ Desenvolver o raciocínio lógico e a capacidade de resolver problemas utilizand
   - Divisão  
   - Potência  
 
-</td>
-<td width="50%">
 
-<img src="/algoritmos/exercicio5.gif" width="100%">
 
-</td>
-</tr>
-</table>
+<br clear="right">
+<p align="right"><strong>🎥 Exemplo de execução</strong>
 
----
 
 ### 🎲 6. Sorteio aleatório
 
-<table>
-<tr>
-<td width="50%">
+<img src="/exemplos/exercicio6.gif" align="right" width="300px">
 
 - Lê dois números  
 - Gera número aleatório  
 - Informa se é par ou ímpar  
 
-</td>
-<td width="50%">
 
-<img src="/algoritmos/exercicio6.gif" width="100%">
-
-</td>
-</tr>
-</table>
-
----
+<br clear="right">
+<p align="right"><strong>🎥 Exemplo de execução</strong>
 
 ---
 
