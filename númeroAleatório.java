@@ -23,6 +23,6 @@ public class númeroAleatório {
         } else {
             System.out.println("O número escolhido foi: "+numeroAleatorio+"\nE é um número IMPAR");
         }
-
+        sc.close();
     }
 }
