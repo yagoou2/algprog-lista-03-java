@@ -3,7 +3,7 @@
 <p align="center">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=for-the-badge)
+![Status](https://img.shields.io/badge/status-concluído-brightgreen?style=for-the-badge)
 ![Nivel](https://img.shields.io/badge/n%C3%ADvel-iniciante-blue?style=for-the-badge)
 ![Licença](https://img.shields.io/badge/licen%C3%A7a-MIT-green?style=for-the-badge)
 
@@ -24,103 +24,138 @@ Desenvolver o raciocínio lógico e a capacidade de resolver problemas utilizand
 
 ## 📋 Exercícios
 
+---
+
 ### 🔢 1. Maior, menor e média
 
-Algoritmo que:
+<table>
+<tr>
+<td width="50%">
 
-- Lê 3 números informados pelo usuário  
-- Exibe:
-  - O maior número  
-  - O menor número  
-  - A média aritmética dos três valores  
+- Lê 3 números  
+- Mostra:
+  - Maior valor  
+  - Menor valor  
+  - Média aritmética  
+
+</td>
+<td width="50%">
+
+<img src="/algoritmos/exercicio1.gif" width="100%">
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🏪 2. Máquina de vendas (troco)
 
-Algoritmo que:
+<table>
+<tr>
+<td width="50%">
 
-- Lê o valor da compra e o valor pago  
-- Verifica se o pagamento é suficiente  
-- Calcula o troco com o **menor número de notas possíveis**
+- Lê valor da compra e pagamento  
+- Verifica se é suficiente  
+- Calcula troco com menor número de notas  
 
-💵 Notas disponíveis:
+</td>
+<td width="50%">
 
-- R$ 50,00  
-- R$ 20,00  
-- R$ 10,00  
-- R$ 5,00  
-- R$ 2,00  
-- R$ 1,00  
+<img src="/algoritmos/exercicio2.gif" width="100%">
 
-📌 Caso o valor pago seja insuficiente, o sistema exibe erro.
+</td>
+</tr>
+</table>
 
 ---
 
 ### 📐 3. Equação do segundo grau
 
-Equação:
+<table>
+<tr>
+<td width="50%">
 
-```math
-ax² + bx + c = 0
-```
+- Resolve: ax² + bx + c = 0  
+- Calcula Δ (delta)  
+- Trata todos os casos possíveis  
 
-Discriminante:
+</td>
+<td width="50%">
 
-```math
-Δ = b² - 4ac
-```
+<img src="/algoritmos/exercicio3.gif" width="100%">
 
-O algoritmo trata:
-
-- Coeficientes inválidos  
-- Equação de primeiro grau  
-- Sem raízes reais  
-- Duas raízes iguais  
-- Duas raízes diferentes  
+</td>
+</tr>
+</table>
 
 ---
 
 ### ⚪ 4. Círculo e esfera
 
-| Código | Operação |
-|--------|---------|
-| 1      | Perímetro do círculo |
-| 2      | Área do círculo |
-| 3      | Volume da esfera |
+<table>
+<tr>
+<td width="50%">
 
-📌 Fórmulas:
+- Código 1 → Perímetro  
+- Código 2 → Área  
+- Código 3 → Volume  
 
-- Perímetro: `2πr`  
-- Área: `πr²`  
-- Volume: `(4/3)πr³`  
+</td>
+<td width="50%">
+
+<img src="/algoritmos/exerciciox4.gif" width="100%">
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### ➕ 5. Calculadora
 
-Algoritmo que realiza:
+<table>
+<tr>
+<td width="50%">
 
-- `+` Soma  
-- `-` Subtração  
-- `*` Multiplicação  
-- `/` Divisão  
-- `^` Potência  
+- Operações:
+  - Soma  
+  - Subtração  
+  - Multiplicação  
+  - Divisão  
+  - Potência  
 
-⚠️ Operador inválido → mensagem de erro
+</td>
+<td width="50%">
+
+<img src="/algoritmos/exercicio5.gif" width="100%">
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🎲 6. Sorteio aleatório
 
-Algoritmo que:
+<table>
+<tr>
+<td width="50%">
 
-- Lê dois números inteiros  
-- Define automaticamente o menor e o maior  
-- Gera um número aleatório entre eles  
-- Informa se é:
-  - Par  
-  - Ímpar  
+- Lê dois números  
+- Gera número aleatório  
+- Informa se é par ou ímpar  
+
+</td>
+<td width="50%">
+
+<img src="/algoritmos/exercicio6.gif" width="100%">
+
+</td>
+</tr>
+</table>
+
+---
 
 ---
 
