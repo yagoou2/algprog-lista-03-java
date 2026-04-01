@@ -54,7 +54,6 @@ Desenvolver o raciocínio lógico e a capacidade de resolver problemas utilizand
 <br clear="right">
 <p align="right"><strong>🎥 Exemplo de execução</strong>
 
----
 
 ### 📐 3. Equação do segundo grau
 
