@@ -1,121 +1,90 @@
 # 📘 Lista de Exercícios de Algoritmos
 
-<p align="center">
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Status](https://img.shields.io/badge/status-concluído-brightgreen?style=for-the-badge)
-![Nivel](https://img.shields.io/badge/n%C3%ADvel-iniciante-blue?style=for-the-badge)
-![Licença](https://img.shields.io/badge/licen%C3%A7a-MIT-green?style=for-the-badge)
+![Licença](https://img.shields.io/badge/licen%C3%A7a-MIT-blue?style=for-the-badge)
 
-</p>
-
----
-
-## 🧠 Objetivo
-
-Desenvolver o raciocínio lógico e a capacidade de resolver problemas utilizando algoritmos, com foco em:
-
-- Estruturas condicionais (`if`, `else`)
-- Operações matemáticas
-- Entrada e saída de dados
-- Validação de dados
+Repositório focado no desenvolvimento de raciocínio lógico, abrangendo estruturas condicionais, operações matemáticas e validação de dados.
 
 ---
 
-## 📋 Exercícios
+## 🚀 Exercícios
 
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3>01. Maior, Menor e Média</h3>
+      <p>Lê três números informados pelo usuário e exibe qual é o maior, qual é o menor e realiza o cálculo da média aritmética entre eles.</p>
+    </td>
+    <td width="50%">
+      <img src="./exemplos/exercicio1.gif" alt="Demonstração Exercício 01">
+    </td>
+  </tr>
+</table>
 
-### 🔢 1. Maior, menor e média
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3>02. Máquina de Vendas (Troco)</h3>
+      <p>Lê o valor de uma compra e o valor pago. O sistema verifica se o pagamento é suficiente e calcula o troco, otimizando a entrega com o menor número de notas possível.</p>
+    </td>
+    <td width="50%">
+      <img src="./exemplos/exercicio2.gif" alt="Demonstração Exercício 02">
+    </td>
+  </tr>
+</table>
 
-<img src="/exemplos/exercicio1.gif" align="right" width="300px">
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3>03. Equação do Segundo Grau</h3>
+      <p>Resolve equações do tipo ax² + bx + c = 0. O programa calcula o discriminante (Δ), encontra as raízes e trata todos os casos possíveis (raízes reais ou inexistentes).</p>
+    </td>
+    <td width="50%">
+      <img src="./exemplos/exercicio3.gif" alt="Demonstração Exercício 03">
+    </td>
+  </tr>
+</table>
 
-- Lê 3 números  
-- Mostra:
-  - Maior valor  
-  - Menor valor  
-  - Média aritmética  
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3>04. Círculo e Esfera</h3>
+      <p>Oferece opções de cálculo baseadas no raio: <b>Perímetro</b> do círculo, <b>Área</b> da superfície ou <b>Volume</b> da esfera.</p>
+    </td>
+    <td width="50%">
+      <img src="./exemplos/exercicio4.gif" alt="Demonstração Exercício 04">
+    </td>
+  </tr>
+</table>
 
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3>05. Calculadora Multifuncional</h3>
+      <p>Uma calculadora completa que realiza operações de soma, subtração, multiplicação, divisão e cálculos de potência.</p>
+    </td>
+    <td width="50%">
+      <img src="./exemplos/exercicio5.gif" alt="Demonstração Exercício 05">
+    </td>
+  </tr>
+</table>
 
-<p align="right"><strong>🎥 Exemplo de execução</strong>
-<br clear="right">
-
-
-
-### 🏪 2. Máquina de vendas (troco)
-
-<img src="/exemplos/exercicio2.gif" align="right" width="300px">
-
-- Lê valor da compra e pagamento  
-- Verifica se é suficiente  
-- Calcula troco com menor número de notas  
-
-
-
-<br clear="right">
-<p align="right"><strong>🎥 Exemplo de execução</strong>
-
-
-### 📐 3. Equação do segundo grau
-
-<img src="/exemplos/exercicio3.gif" align="right" width="300px">
-
-- Resolve: ax² + bx + c = 0  
-- Calcula Δ (delta)  
-- Trata todos os casos possíveis  
-
-
-
-<br clear="right">
-<p align="right"><strong>🎥 Exemplo de execução</strong>
-
-
-### ⚪ 4. Círculo e esfera
-
-<img src="/exemplos/exercicio4.gif" align="right" width="300px">
-
-- Código 1 → Perímetro  
-- Código 2 → Área  
-- Código 3 → Volume  
-
-
-
-<br clear="right">
-<p align="right"><strong>🎥 Exemplo de execução</strong>
-
-
-### ➕ 5. Calculadora
-
-<img src="/exemplos/exercicio5.gif" align="right" width="300px">
-
-- Operações:
-  - Soma  
-  - Subtração  
-  - Multiplicação  
-  - Divisão  
-  - Potência  
-
-
-
-<br clear="right">
-<p align="right"><strong>🎥 Exemplo de execução</strong>
-
-
-### 🎲 6. Sorteio aleatório
-
-<img src="/exemplos/exercicio6.gif" align="right" width="300px">
-
-- Lê dois números  
-- Gera número aleatório  
-- Informa se é par ou ímpar  
-
-
-<br clear="right">
-<p align="right"><strong>🎥 Exemplo de execução</strong>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3>06. Sorteio Aleatório</h3>
+      <p>Lê dois números limites, gera um valor aleatório dentro desse intervalo e informa ao usuário se o número sorteado é par ou ímpar.</p>
+    </td>
+    <td width="50%">
+      <img src="./exemplos/exercicio6.gif" alt="Demonstração Exercício 06">
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 💻 Tecnologias
-
-- ☕ Java  
-
----
+## 🛠️ Tecnologias
+* **Linguagem:** Java
+* **JDK:** Versão 11 ou superior
+* **IDE Sugerida:** IntelliJ IDEA / VS Code / Eclipse
